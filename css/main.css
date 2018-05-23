@@ -1,0 +1,29 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #333;
+  margin: 0;
+}
+
+.logo {
+  position: relative;
+  top: 10px;
+  left: 10px;
+  width: 100px;
+  height: auto;
+  border: 3px solid #9f1616;
+  border-radius: 18px 18px 18px 18px;
+}
+
+.navBar {
+  position: absolute;
+  top: 0px;
+  background: #202020;
+  width: 100%;
+  height: 80px;
+}
+
+.content {
+  margin-top: 130px;
+}
+
+/*# sourceMappingURL=../css/main.css.map */
